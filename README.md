@@ -8,9 +8,9 @@ In order to submit this assignment, all you will have to do is add a bit of info
 -----
 
 ### Information
-1. Favorite Color: TODO
-2. Favorite Food: TODO
-3. Favorite Movie: TODO
+1. Favorite Color: green
+2. Favorite Food: hotpot
+3. Favorite Movie: ender's game
 
 -----
 
