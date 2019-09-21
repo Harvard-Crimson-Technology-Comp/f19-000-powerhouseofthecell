@@ -1,5 +1,5 @@
 # hello, Crimson!
-Welcome to The Harvard Crimson! We just want you to get familiar with Git, so this is a very simple assignment to verify that you are present!
+elcome to The Harvard Crimson! We just want you to get familiar with Git, so this is a very simple assignment to verify that you are present!
 
 In order to submit this assignment, all you will have to do is add a bit of info about yourself below, then run the commands after to submit.
 
